@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  background: #f7f7f7;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+article {
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+@import url('./base.css');
+@import url('./layout.css');
+@import url('./components.css');
